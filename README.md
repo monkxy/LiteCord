@@ -1,7 +1,4 @@
-# LiteCord [![Language Grade][lgtm-badge]][lgtm-link] [![GitHub Releases][downloads-badge]][downloads-link] [![Discord][discord-badge]][discord-link]
-
-[lgtm-badge]: https://img.shields.io/lgtm/grade/javascript/g/BetterDiscord/BetterDiscord.svg?labelColor=0c0d10&style=for-the-badge
-[lgtm-link]: https://lgtm.com/projects/g/BetterDiscord/BetterDiscord/context:javascript
+# LiteCord [![GitHub Releases][downloads-badge]][downloads-link]
 
 [downloads-badge]: https://img.shields.io/github/downloads/Actuallybarcode/LiteCord/total?logoColor=blue&style=for-the-badge
 [downloads-link]: #auto-installers
