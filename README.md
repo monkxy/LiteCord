@@ -9,7 +9,7 @@
 [discord-badge]: https://img.shields.io/badge/support%20server-join-green?labelColor=0c0d10&color=7289da&style=for-the-badge&logo=discord&logoColor=7289da
 [discord-link]: https://discord.gg/C57JMntkZy
 
-BetterDiscord is a client modification for Discord. This allows you to add plugins and themes to your personal copy of Discord. BetterDiscord also adds a number of other features out of the box.
+BetterDiscord is a client modification for Discord. This allows you to add plugins and themes to your personal copy of Discord. LiteCord also adds a number of other features out of the box.
 
 ---
 
